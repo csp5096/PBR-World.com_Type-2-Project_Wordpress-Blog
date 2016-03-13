@@ -1,0 +1,26 @@
+_˜V<?php exit; ?>a:1:{s:7:"content";s:810:"<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>http://www.centos7.local/post-sitemap.xml</loc>
+<lastmod>2016-01-08T20:34:42-06:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://www.centos7.local/page-sitemap.xml</loc>
+<lastmod>2016-01-13T20:48:17-06:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://www.centos7.local/slide-sitemap.xml</loc>
+<lastmod>2016-01-07T20:50:20-06:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://www.centos7.local/category-sitemap.xml</loc>
+<lastmod>2016-01-08T20:34:42-06:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://www.centos7.local/post_tag-sitemap.xml</loc>
+<lastmod>2016-01-08T20:34:42-06:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>http://www.centos7.local/slideshow-sitemap.xml</loc>
+<lastmod>2016-01-07T20:50:20-06:00</lastmod>
+</sitemap>
+</sitemapindex>";}

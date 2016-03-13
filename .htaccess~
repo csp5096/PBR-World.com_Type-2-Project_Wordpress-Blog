@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+
+Options +FollowSymlinks -MultiViews
+RewriteEngine on
+
+# For sales:
+RewriteRule ^shop/sales/?$ sales.php
+
+# For the primary categories:
+RewriteRule ^shop/([^/]*)/?$ shop.php?type=$1 [L,NC]
+
+# For specific products:
+RewriteRule ^browse/([^/]*)/([^/]*)/([0-9])/?$ browse.php?type=$1&category=$2&id=$3 [L,NC]
+
+# For HTTPS pages:
+RewriteCond %{HTTPS} off
+RewriteRule ^(checkout\.php|billing_stripe\.php|final\.php|admin/(.*))$ https://%{HTTP_HOST}/$1 [R=301,L,NC]
+
+</IfModule>

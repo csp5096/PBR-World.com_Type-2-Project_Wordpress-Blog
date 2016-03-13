@@ -1,0 +1,1 @@
+e˜V<?php exit; ?>a:1:{s:7:"content";a:4:{s:10:"_edit_lock";a:1:{i:0;s:12:"1452306244:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:40:"_oembed_69ffa6a52f9a0367b0a79777789cbdc4";a:1:{i:0;s:11:"{{unknown}}";}s:15:"twitterCardType";a:1:{i:0;s:7:"summary";}}}

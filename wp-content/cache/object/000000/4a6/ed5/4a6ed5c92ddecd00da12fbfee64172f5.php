@@ -1,0 +1,1 @@
+e˜V<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1452307257:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:40:"_oembed_5a692c5a248a4a5d88046820bad77e5a";a:1:{i:0;s:11:"{{unknown}}";}s:12:"_wp_old_slug";a:1:{i:0;s:13:"brayton-cycle";}s:15:"twitterCardType";a:1:{i:0;s:7:"summary";}}}
